@@ -6,6 +6,4 @@ class Solution:
                 return (i, hashmap[target - n])
             else:
                 hashmap[n] = i
-
-        #meow
-        
+                
