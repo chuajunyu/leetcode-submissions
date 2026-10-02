@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chuajunyu/leetcode-submissions/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/chuajunyu/leetcode-submissions/tree/master/0198-house-robber) |
 | [0994-rotting-oranges](https://github.com/chuajunyu/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chuajunyu/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/chuajunyu/leetcode-submissions/tree/master/0198-house-robber) |
 ## Tree
 |  |
 | ------- |
