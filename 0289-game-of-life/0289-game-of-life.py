@@ -12,8 +12,6 @@ class Solution:
         # m and n are > 0
         m = len(board)
         n = len(board[0])
-        
-        tmp_board = [list(row) for row in board]
 
         for i in range(m):
             for j in range(n):
@@ -30,19 +28,26 @@ class Solution:
                         if dx == 0 and dy == 0:
                             continue
 
-                        if tmp_board[x][y]:
+                        
+                        if board[x][y] in [1, -1]:
                             live_neighbours += 1
-                
+
                 # update the next state
-                if tmp_board[i][j]:
+                if board[i][j] in [1, -1]:
                     if live_neighbours < 2:
-                        board[i][j] = 0
+                        board[i][j] = -1
                     elif live_neighbours > 3:
-                        board[i][j] = 0
+                        board[i][j] = -1
                 else:
                     if live_neighbours == 3:
-                        board[i][j] = 1
-                
+                        board[i][j] = 2
+
                 live_neighbours = 0
+        print(board)
+        for i in range(m):
+            for j in range(n):
+                board[i][j] = 1 if board[i][j] in [1, 2] else 0
+                
+                
         
 
