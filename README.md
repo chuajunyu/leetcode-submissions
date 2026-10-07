@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chuajunyu/leetcode-submissions/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/chuajunyu/leetcode-submissions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/chuajunyu/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/chuajunyu/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/chuajunyu/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/chuajunyu/leetcode-submissions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1861-rotating-the-box](https://github.com/chuajunyu/leetcode-submissions/tree/master/1861-rotating-the-box) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/chuajunyu/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/chuajunyu/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/chuajunyu/leetcode-submissions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1861-rotating-the-box](https://github.com/chuajunyu/leetcode-submissions/tree/master/1861-rotating-the-box) |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/chuajunyu/leetcode-submissions/tree/master/0289-game-of-life) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/chuajunyu/leetcode-submissions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
